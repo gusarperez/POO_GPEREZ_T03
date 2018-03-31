@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/gusar/CLionProjects/POO_GPEREZ_T03/Fraccion.cpp
+Fraccion.h
+C:/Users/gusar/CLionProjects/POO_GPEREZ_T03/Fraccion.h
+
+C:/Users/gusar/CLionProjects/POO_GPEREZ_T03/Fraccion.h
+iostream
+-
+
+C:/Users/gusar/CLionProjects/POO_GPEREZ_T03/main.cpp
+iostream
+-
+Fraccion.h
+C:/Users/gusar/CLionProjects/POO_GPEREZ_T03/Fraccion.h
+

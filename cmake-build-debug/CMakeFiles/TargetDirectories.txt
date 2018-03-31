@@ -1,0 +1,3 @@
+C:/Users/gusar/CLionProjects/POO_GPEREZ_T03/cmake-build-debug/CMakeFiles/POO_GPEREZ_T03.dir
+C:/Users/gusar/CLionProjects/POO_GPEREZ_T03/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gusar/CLionProjects/POO_GPEREZ_T03/cmake-build-debug/CMakeFiles/rebuild_cache.dir
